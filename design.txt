@@ -1,0 +1,3 @@
+the homepage will be center aligned scrolling page with blocks containing all blog entrys
+the blog-technical.html file will be a "copy" of the homepage, but will link to a blogpost
+that goes over the technical aspects of each entry

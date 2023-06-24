@@ -1,1 +1,45 @@
 /*This file will hold all my css styles for my blog*/
+
+/* Center a div r1 */
+body {
+    background-color: rgb(113, 126, 187);
+}
+
+a {
+    color: rgb(43, 42, 42);
+}
+
+p,h4{
+    color: whitesmoke;
+}
+
+
+.grid {
+    display: grid;
+    place-items: center;
+    justify-content: center;
+}
+
+
+.blog-container{
+    color: whitesmoke;
+
+}
+
+.blog-header{
+    color: whitesmoke;
+
+}
+
+.post-box {
+    color: whitesmoke;
+}
+
+.top-bar{
+    color: whitesmoke;
+}
+
+/*
+Resources used:
+r1 - https://youtu.be/njdJeu95p6s?t=32
+*/
